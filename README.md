@@ -257,3 +257,7 @@ Raw CSV Files → Google BigQuery → SQL Transformation → Power BI Dashboard 
 ## 10. Dashboard Screenshot
 
 ![Dashboard Screenshot](Dashboard_screenshot.png)
+
+## Video Walkthrough
+
+[Watch Video Walkthrough](https://drive.google.com/file/d/15IC21nrfiofY8OFjWKrHH2ZDhqQmIb3f/view)
